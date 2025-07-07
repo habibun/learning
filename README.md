@@ -6,6 +6,7 @@
 - [Markdown](https://github.com/habibun/markdown)
 - [CSS](https://github.com/habibun/css)
   - [Sass](https://github.com/habibun/sass)
+  - [Tailwind CSS](https://github.com/habibun/tailwind-css)
 - [Git](https://github.com/habibun/git)
 - [JavaScript](https://github.com/habibun/javascript)
   - [JSON](https://github.com/habibun/json)
